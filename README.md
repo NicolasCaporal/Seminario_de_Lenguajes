@@ -1,2 +1,1 @@
-# Seminario_de_Lenguajes
-Opción Python
+Nicolás Caporal | Legajo: 21322/4
